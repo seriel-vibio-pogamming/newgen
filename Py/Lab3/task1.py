@@ -1,0 +1,7 @@
+print(10 in [10,20,30,40])
+print(20 not in [20,30,40])
+print(not 0)
+print(True and False)
+print(True or False)
+print(False or False)
+print(False and False)

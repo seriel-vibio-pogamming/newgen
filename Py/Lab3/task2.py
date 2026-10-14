@@ -1,0 +1,5 @@
+print(not (True) and False)
+print(not (False) and True)
+print(not (True and False))
+print(not (10<0) or (10>2))
+print(not (10<0 or 10>2))
