@@ -6,3 +6,8 @@ print("Your email is: " + email.lower())
 myname = ["Quang", "Pham"]
 n = " ".join(myname)
 print(n)
+print(myname)
+print(len(myname))
+selfname = "Quang Pham"
+print(selfname)
+print(len(selfname))
